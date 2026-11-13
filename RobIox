@@ -1,0 +1,3 @@
+roblox-security-analyzer/
+│── **core/**               # Noyau du simulateur
+│   │── auth_simulator.py   # Simulation de la connexion
